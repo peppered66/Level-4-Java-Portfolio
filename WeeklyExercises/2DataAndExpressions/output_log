@@ -1,0 +1,48 @@
+Table of student grades:
+
+///////////////////\\\\\\\\\\\\\\\\\\\
+==          Student Points          ==
+\\\\\\\\\\\\\\\\\\\///////////////////
+
+Name            Lab     Bonus   Total
+
+----            ---     -----   -----
+
+William Smith	23	7	30
+
+Mohammed Khan	30	3	33
+
+Beth Smith	33	9	42
+
+John Doe	12	5	17
+
+Emma Gill	40	7	47
+
+Computing averages:
+
+Please enter three integers and I will compute their average.
+Please enter the first value: 5
+Please enter the second value: 2
+Please enter the third value: 7
+The average is 4.0
+
+Miles to Kilometres:
+
+Please enter your distance in miles and it will be converted to kilometers.
+Please enter the distance in miles: 10
+The distance in kilometers is 16.0935 km.
+
+Square calculations:
+
+Please enter the length of the squares side in cm.
+10
+The perimeter of the square is 40cm and the area is 100cm squared.
+
+Fractions:
+Please enter the numerator of the fraction.
+10
+Please enter the denominator of the fraction.
+20
+This fraction converted to decimal is 0.5
+
+

@@ -1,0 +1,39 @@
+Week 4 output log.
+
+StringPlay:
+
+Leeds Beckett University contains 24 characters.
+The first string is LEEDS BECKETT UNIVERSITY
+The second string is L**DS B*CK*TT UNIV*RSITY
+The final string is Leeds Beckett University Anytown, UK
+
+Dice:
+
+How many sides are on the first dice? 
+6
+How many sides are on the second dice? 
+20
+Dice 1's first roll is: 1
+Dice 2's first roll is: 13
+Dice 1's second roll is: 2
+Dice 2's second roll is: 14
+Dice 1's third roll is: 1
+Dice 2's third roll is: 19
+Dice 1 rolled a total of 4 and rolled 1 on average.
+Dice 2 rolled a total of 46 and rolled 15 on average.
+
+Formatting output:
+
+Pin Encryption:
+
+Please enter 4 digit pin. 
+1234
+Your encrypted password is: c6904d2311a.
+
+Sphere Calculations:
+Please enter the radius of the sphere: 
+10
+The surface area of the sphere is: 1256.0000
+The volume of the sphere is: 4186.6667
+
+

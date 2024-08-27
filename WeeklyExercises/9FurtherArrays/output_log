@@ -1,0 +1,78 @@
+Histogram:
+1-10: *****
+11-20: ***************
+21-30: ***********
+31-40: **********
+41-50: ***********
+51-60: ************
+61-70: ******
+71-80: **********
+81-90: ********
+91-100: ************
+
+LL Bank Accounts:
+500.0
+Name: Duncan
+Phone: 08312345623
+Account: 504864
+Balance: 500.0
+
+Interest added.
+515.0
+Name: Duncan
+Phone: 08312345623
+Account: 504864
+Balance: 515.0
+
+Balance remaining: 115.0.
+115.0
+Name: Duncan
+Phone: 08312345623
+Account: 504864
+Balance: 115.0
+
+800.0
+Name: William
+Phone: 08383243123
+Account: 616394
+Balance: 800.0
+
+Interest added.
+824.0
+Name: William
+Phone: 08383243123
+Account: 616394
+Balance: 824.0
+
+Not enough balance to withdraw this amount. Please check balance and try again.
+824.0
+Name: William
+Phone: 08383243123
+Account: 616394
+Balance: 824.0
+
+Post Codes:
+
+Enter up to 25 pairs of names and postal codes (separate by tab):
+william	smith	ls233ds
+ben	button	ls234ds
+lando	norris	ls54f5t
+List of individuals:
+Name: william smith, Post Code: ls233ds
+Name: ben button, Post Code: ls234ds
+Name: lando norris, Post Code: ls54f5t
+
+Quiz Time:
+
+Is Leeds in yorkshire?	 type yes or no to answer.
+yes
+Is java object oriented?	 type yes or no to answer.
+yes
+Is java a typed language?	 type yes or no to answer.
+yes
+Is python a typed language?	 type yes or no to answer.
+yes
+Is python object oriented?	 type yes or no to answer.
+no
+You scored: 4 answers correctly.
+

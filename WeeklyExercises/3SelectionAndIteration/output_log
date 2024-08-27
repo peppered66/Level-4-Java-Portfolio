@@ -1,0 +1,67 @@
+Computing a pay increase:
+
+Enter the current salary: 10000
+Enter the performance rating (Excellent, Good, or Poor): Excellent
+
+Current Salary:       £10,000.00
+Amount of your raise: £600.00
+Your new salary:      £10,600.00
+
+Enter the current salary: 10000
+Enter the performance rating (Excellent, Good, or Poor): Good
+
+Current Salary:       £10,000.00
+Amount of your raise: £400.00
+Your new salary:      £10,400.00
+
+Enter the current salary: 10000
+Enter the performance rating (Excellent, Good, or Poor): Poor
+
+Current Salary:       £10,000.00
+Amount of your raise: £150.00
+Your new salary:      £10,150.00
+
+Rock paper scissors:
+
+Please enter input R/P/S. 
+
+r
+R
+P
+Rock loses to paper.  You lose!!
+
+Please enter input R/P/S. 
+
+r
+R
+S
+Rock crushes scissors.  You win!!
+
+Please enter input R/P/S. 
+
+p
+P
+S
+Paper loses to scissors.  You lose!!
+
+Please enter input R/P/S. 
+
+s
+S
+P
+Paper loses to scissors.  You win!!
+
+String reverser:
+Please enter your sentence. 
+
+this is a string
+gnirts a si siht
+
+punctuation marks:
+
+Comma Count: 3
+Fullstop Count: 2
+Dash Count: 2
+
+
+
