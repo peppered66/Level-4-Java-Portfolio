@@ -1,7 +1,9 @@
 
 # OOP 2024 Portfolio
 During each week of the semester we covered new concepts with lectures and practical sessions followed by programs to write at home.
-This repository contains said programs and an output log can be found for each program in their respective weekl folders.
+This repository contains said programs and an output log can be found for each program in their respective weekly folders.
+Unfornately I do not own the original repo as it was created through git classroom and therefore I have had to reupload them
+leaving the commit history unviewable.
 
 ## Work Schedule
 **1 Getting Started**\
